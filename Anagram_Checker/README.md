@@ -15,7 +15,7 @@
 |---|---|---|---|
 |1. User will input an input a word and a word will be returned to them | Rock | Rock |
 |2. User will input a list of words | Rock, Wall, Floor | Rock, Wall, Floor |
-|3. User will input a word and a list of words that they think are anagrams | Rock | Sock, cork, orck |
+|3. User will input a word and a list of words that they think are anagrams | Rock | Sock, cork, orck? | 
 |4. User will hit a submit button to learn which words were anagrams | user hits submit | cork is an anagram |
 |5.  
 
